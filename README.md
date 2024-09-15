@@ -1,4 +1,4 @@
-# Suriya prakash.s(212223100055)            
+# Karna S(212222110017)            
 # Echoserver
 Echo server and client using python socket
 
